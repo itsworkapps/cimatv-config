@@ -1,1 +1,6 @@
-"show_api_content": false
+{
+  "show_api_content": false,
+  "show_tvmaze_shows": true,
+  "show_actors": false,
+  "show_ghibli_films": true
+}
